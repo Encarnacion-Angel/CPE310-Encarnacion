@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is ... and I'm a ..., from ....</p>
+<p align="left">My name is Angel and I'm a 2nd Year Industrial Engineering </p>
 
 ###
 
