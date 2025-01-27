@@ -6,6 +6,6 @@
 
 ###
 
-<p align="left">I'm Angel from Industrial Engneering Department<br><br>  📚 I'm currently learning computer <br>- ⚡
+<p align="left">I'm Angel from Industrial Engneering Department<br><br>  📚 I'm currently learning computer <br>⚡
 
 ###
